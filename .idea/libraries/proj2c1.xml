@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="proj2c1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../library-sp19/javalib/proj2c" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/jetty-server-9.4.15.v20190215-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../library-sp19/javalib/proj2c" recursive="false" />
+  </library>
+</component>
