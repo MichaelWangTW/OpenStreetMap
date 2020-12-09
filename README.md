@@ -2,7 +2,7 @@
 
 For this web mapping application, we will focus on four major parts of functions, namely, map rastering, finding shortest route between two
 user-identified locations, autocomplete searching, and generating turn-by-turn navigation.
-
+mainly focus on back-end building
 Specifically, the web application has functionalities as follows:
 
 Funtions | Detailed Explanation
