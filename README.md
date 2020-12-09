@@ -17,7 +17,7 @@ Turn-by-turn Navigation | Augment the routing from Part II to include written dr
 Here is a link you can try using heroku app: [bearmaps](http://bearmaps-sp19-ztong5.herokuapp.com/map.html).
 The expected results will be displayed as below.
 1. Map Rastering
-![Image of Initialization](https://github.com/ZTong1201/Java/blob/master/project/proj2c/static/test%20demo/initialization.png)
+![Image of Initialization](https://github.com/MichaelWangTW/OpenStreetMap/blob/main/image/Path_Find.gif?raw=true)
 2. Autocomplete Searching
 ![Image of Autocompletion](https://github.com/ZTong1201/Java/blob/master/project/proj2c/static/test%20demo/autocompletion.png)
 3. Location Data
