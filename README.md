@@ -1,2 +1,2 @@
 # OpenStreetMap
-## Aknowledge 
+## Acknowledge 
