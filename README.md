@@ -34,4 +34,5 @@ contains necessary libraries, street map data, and all the images.
 whichever you like).
 5. For more detailed setup information, please refer to [CS61B website](https://sp19.datastructur.es/materials/proj/proj2c/proj2c) directly.
 
-## Acknowledge 
+## Acknowledgments
+  - project of [Berkeley CS61B Data Structures](https://sp19.datastructur.es/)
