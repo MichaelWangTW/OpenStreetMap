@@ -1,9 +1,8 @@
 # OpenStreetMap
 
 For this web mapping application, we will focus on four major parts of functions, namely, map rastering, finding shortest route between two
-user-identified locations, autocomplete searching, and generating turn-by-turn navigation.
+user-identified locations, autocomplete searching, and performing step-by-step navigation.
 mainly focus on back-end building
-Specifically, the web application has functionalities as follows:
 
 Funtions | Detailed Explanation
 --------------- | ---------------
@@ -22,15 +21,6 @@ The expected results will be displayed as below.
 ![Image of Location](https://github.com/ZTong1201/Java/blob/master/project/proj2c/static/test%20demo/location_search.png)
 4. Routing & Turn-by-turn Navigation
 ![Image of Navigatiom](https://github.com/MichaelWangTW/OpenStreetMap/blob/main/image/Path_Find.gif?raw=true)
-
-#### Run this app
-1. Clone this repo and [library-sp19 repo](https://github.com/Berkeley-CS61B/library-sp19/tree/7fe87114b62fdcf0a6af3ec3d9e96b0ef4f64523) which
-contains necessary libraries, street map data, and all the images.
-2. Import projects into Intellij IDEA and modify project structure to select proj2c as library and static as your source folder.
-3. Run MapServer.java in bearmaps/proj2c, your computer will be acting as a web server.
-4. Right click on map.html locates in static/page, then click on "Open in Browser" (I personally recommend Chrome, however, you can choose
-whichever you like).
-5. For more detailed setup information, please refer to [CS61B website](https://sp19.datastructur.es/materials/proj/proj2c/proj2c) directly.
 
 ## Acknowledgments
   - project of [Berkeley CS61B Data Structures](https://sp19.datastructur.es/)
