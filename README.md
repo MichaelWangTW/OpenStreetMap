@@ -26,4 +26,4 @@ Here is a link you can try using heroku app: [bearmaps](http://bearmaps-sp19-zto
 The expected results will be displayed as below.
 
 ## Acknowledgments
-  - project of [Berkeley CS61B Data Structures](https://sp19.datastructur.es/)
+project of [Berkeley CS61B Data Structures](https://sp19.datastructur.es/)
